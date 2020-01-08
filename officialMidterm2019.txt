@@ -1,0 +1,161 @@
+Midterm Exam 2019- Seth Jones
+Basics
+Which file type is mainly used in Python programs?
+1- .jpg
+2- .json
+3- .py
+4- .png
+3
+The .py type is the main file type used in Python.
+Basics
+Which of these variables is an example of camel case?
+1- Camel Case
+2- CamelCase
+3- camel_case
+4- camelCase
+4
+Camel case is excluding spaces but capitalizing all words besides the first.
+Syntax
+How would you fix this piece of code?/print(This needs to be fixed.)
+1- ("This needs to be fixed.")
+2- print"(This needs to be fixed.)"
+3- print: "This needs to be fixed."
+4- print("This needs to be fixed.")
+4
+Print statements, when printing a string, must use quotation marks inside of/ the print function.
+Lists and Tuples
+How would you print the third item of the list 'container'?
+1- print(container[3])
+2- print(container[2])
+3- print(container(3))
+4- print(container(2))
+2
+Making sure to account for 0 being the first item and brackets calling the/ 'container' item, print(container[2]) will print the third item.
+Imports
+Which line of code below will import the function 'sleep' correctly?
+1- from time import sleep
+2- import sleep
+3- import datetime
+4- from delay import sleep
+1
+'from time import sleep' will correctly import the sleep function.
+Lists and Tuples
+How would you create a tuple with the name 'container'?
+1- container = ("bop", 1, 8.0)
+2- container = ["bop", 1, 8.0]
+3- container = "bop", 1, 8.0
+4- container = {"bop", 1, 8.0}
+1
+Using parenthesis will give you a tuple, whereas brackets will give you a list.
+Functions
+Which one of these functions will give you a random number inside the range /0 and 10 for a float?
+1- random.random(0,10)
+2- random.float(0,10)
+3- random.pop(0,10)
+4- random.uniform(0,10)
+4
+random.uniform(0,10) will give you a random float between 0 and 10, whereas/ random.random(0,10) will only generate a random float between 0 and 1.
+Functions
+What will math.fabs() do?
+1- round a float to the nearest integer
+2- return the absolute value of a number
+3- add all numbers in a list together
+4- return the square root of a number
+2
+'math.fabs' returns the absolute value of any integer or float.
+Imports
+What happens when another .py file is imported? For example:/ import midterm.py
+1- Nothing, the file must be called for it to run
+2- The file will run immediately
+3- The file will run after any other code in the initial program
+4- Whether it will run depends on the contents of the file
+2
+Wherever you import the .py file, it will run.
+Loops
+When will a 'while True' loop stop?
+1- It won't
+2- It will stop when the conditions of the loop aren't met
+3- It will stop when 'break' is called
+4- It will stop when 'continue' is called
+3
+A 'while True' loop will only stop when 'break' is called, because/ the condition 'while True' is always true.
+Syntax
+Which results will this code return?/print(str.format("Let's get this {}",bread))
+1- Let's get this bread
+2- 'Let's get this bread'
+3- SyntaxError
+4- NameError
+4
+NameError: name 'bread' is not defined
+Syntax
+Which one of these isn't a key word in Python?
+1- then
+2- for
+3- while
+4- as
+1
+You should probably know this. 'Then' isn't a keyword.
+Loops
+What does 'i' stand for in Python?
+1- integer
+2- increase
+3- increment
+4- item
+3
+'i' stands for increment. It goes along through each item in a list/ or tuple by increments.
+Basics
+What does 'def' do in a Python program?
+1- it defines a function and runs it
+2- it defines a function
+3- it creates a variable
+4- it doesn't do anything
+2
+The 'def' keyword defines a function.
+Lists and Tuples
+What does '.append' do for a list?
+1- removes an item from the list
+2- removes every item from the list
+3- adds an item to the list
+4- duplicates an item in the list
+3
+'.append' will add an item of your choosing to the list.
+Loops
+What will 'return' do?
+1- same as break
+2- take files from whatever function it is in
+3- restart the file
+4- go
+2
+This is easy, come on. It will return files from a function.
+Imports
+What does datetime do?
+1- kill you
+2- help with time and date variables
+3- help with math variables
+4- help with weather variables
+2
+'datetime' helps with time and date formatting.
+Star Wars
+Which is the longest Star Wars film?
+1- A New Hope
+2- Revenge of the Sith
+3- The Empire Strikes Back
+4- The Last Jedi
+4
+Why was the Last Jedi so long? I dunno
+Nintendo
+Which Nintendo game was created first?
+1- Super Smash Bros Melee
+2- Super Mario Sunshine
+3- Luigi's Mansion
+4- Animal Crossing
+4
+Pretty sure it was Animal Crossing which came out first.
+Nintendo
+Which Zelda game has sold the most copies?
+1- Breath of the Wild
+2- Ocarina of Time
+3- Twilight Princess
+4- A Link to the Past
+1
+Breath of the Wild has soared over any other game in popularity.

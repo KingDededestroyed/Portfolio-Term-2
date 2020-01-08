@@ -1,0 +1,162 @@
+python Trivia challenge 2nd midterm kaden marden 12.5.2019
+>Basic Functions
+How do you do a Print Statement?
+print()
+print("")
+input()
+I don't know
+2 
+print("") have to have the quotations.
+>Functions
+Writing an "if" statement, what should be placed between the "if" keyword and the final colon (:)?
+syntax
+mathmatical expression 
+varible name
+logical expression
+4  
+You have to place a colon otherwise it runs on forever
+>Functions
+What debugger command will show you lines of code around the line that will be executed? 
+print(p)
+display(d)
+list(l)
+status(s)
+3 
+list will show you the lines of code.
+>Functions
+Why would you use random.seed()?
+To begin generating the same sequence of "random" numbers from a particular seed value  
+To enable the random library to provide any random numbers at all
+To set the minimum and maximum values produced by the random functions 
+To ensure random numbers will start out small and then grow over time
+1 is the right anwser
+it will randomize the sequence.
+>operators
+Which of the following is not a comparison operator?
+None of these are comparison operators
+Or
+And
++
+1
+comparison operators are these >,<,=.
+>Commands
+Which of the following is not a python debugger command?
+Continue(c)
+Fix(f)
+All of these are common debugger commands
+step(s)
+2  
+fix is not he correct one.
+>Random question
+How fast do you have to slap a chicken to cook it?
+600MPH
+900MPH
+10000MPH
+5000MPH
+4 
+Friction = heat.
+>Errors
+Which of the following mistakes is a syntax error?
+Failing to surround values with open and closing quotes
+Failing to match every opening parenthesis with a closing parenthesis 
+All of these are syntax errors
+leaving off the ending colon after an if statement
+3 
+You know why.
+>python orgin
+What is python named after?
+Monty Python
+Good Burger
+Dora
+This should be real easy
+4
+The creater of python watched monty python when creating python. 
+>Basics
+What kind of programming language is python?
+Binary
+Interpreted
+Imaginary
+Compiled
+2 
+Computer language has to be interprteted.
+>Installing
+Which of the following steps is required in order to run Python on your local computer? 
+Pay licensing fee
+Install the python interpreter
+All of these are true
+Register the python software
+2 
+That's all you got to do is install.
+>Differences
+Which of the following best describes the difference between a list and a tuple?
+Nothing is different
+lists can store numbers of elements, while tuples are better at storing larger data sets
+list contents can be changed, while tuple contents cannot be changed after tuple is intialized
+lists can store any data type, while tuples are restricted to a single data type
+3
+You can change lists because they're list, while tuples are set in stone.
+>Breakpoints
+Which of the following best describes a breakpoint?
+A line of code that will cause a program error.
+A temporary output statement that will print messages containing useful debugging information
+A decision point in your code that will decide which statements to execute
+A line of code that will put your program into break state
+4
+Break-points are useful because you can find errors fast.
+>Breakpoints
+What do we call the program state that allows you to examine the contents of your variables and step through code line-by-line?
+Break state
+Diagnostic state
+Running state
+Safety state
+1
+Because you're able to see each code error you make.
+>Random question
+What is Patricks pet rock name?
+Cheese-nibles
+Rocky
+Creed
+Gary
+2
+Spondge bob is life.
+>Functions
+How many parameter are provided to the str.format() funtion?
+None 
+3 only
+1 or more as needed to build your output string
+1 only
+3
+you will need at least 1 to start then add more to build output.
+>Library  
+Which of the following statements will let you use the Python date and time library? 
+Import datetime
+User date time
+Add date
+Import date/time
+1
+Import will access the library and then you add datetime.
+>Functions
+When calling strftime() to do advanced formatting of a date or time object, whatcharacter in the format string marks/the beginning of a placeholder to insert somepart of the object's value?
+:
+%
+!
+-
+2 
+% is the correct formating for datetime
+>Floating points
+Which of the following statements will produce a random floating point value between -10.0 and +15.0?
+rand = random.random(-10.0, 15.0)
+rand = random.uniform(-10.0, 15.0)
+rand = random.random() * 10 - 15
+rand = random.randrange(-10, 15)
+2
+OK
+>Generating
+Which of the following statements will generate a random integer from 1 up to (but not including) 100?
+rand = random.randrange(0,99)
+rand = random(0,99)
+rand = random(0,100)
+rand = random.randrange(0,100)
+4
+Random will randomize and remeber(0,100)/Subtract 1 from 100 cause it wont include 100.
+>END
